@@ -1,7 +1,7 @@
 # Blessing App
 
 
-![Homepage](/src/assets/background2.jpg)
+![Homepage](/src/assets/s.jpg)
 This project is a simple React application that displays a blessing for each day leading up to a special event, such as a wedding. The blessings are customizable, and you can set different blessings for different days.
 
 ## Features
